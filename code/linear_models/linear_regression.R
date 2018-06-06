@@ -1,7 +1,7 @@
 library(ggplot2)
 library(MCMCpack)
 
-load('../../data/beautyeval.Rda')
+load('beautyeval.Rda')
 
 # Visualize it
 ggplot(beautydata,
