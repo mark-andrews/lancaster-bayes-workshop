@@ -5,8 +5,8 @@ A workshop entitled *Bayesian Parameter Estimation* given in the Psychology Depa
 
 ## Slides
 
-* [Introducing Bayesian Inference]()
-* [Introducing MCMC]()
+* [Introducing Bayesian Inference](https://github.com/lawsofthought/lancaster-bayes-workshop/blob/master/slides/pdf/introducing_bayesian_inference.pdf)
+* [Introducing MCMC](https://github.com/lawsofthought/lancaster-bayes-workshop/blob/master/slides/pdf/introducing_mcmc.pdf)
 
 
 ## Demos
@@ -19,7 +19,7 @@ The slides contain links to the following online demos:
 
 ## Source code
 
-R code to accompany the workshop can be found at <>
+R code to accompany the workshop can be found at <https://github.com/lawsofthought/lancaster-bayes-workshop/tree/master/code>.
 
 The demos above are all written in R and Shiny. The source code for these can be found at
 <https://github.com/lawsofthought/psypag-kent-2017/tree/master/shiny>. 
@@ -28,6 +28,6 @@ All code is released according a free and open-source licence, see
 `License.txt` for more info.
 
 The LaTeX source code for the slides is also released according to a free and
-open-source licence (see `License.txt`) and can be found at <>.
+open-source licence (see `License.txt`) and can be found at <https://github.com/lawsofthought/lancaster-bayes-workshop/tree/master/slides>.
 
 [Lancaster University]: <http://www.lancaster.ac.uk/>
